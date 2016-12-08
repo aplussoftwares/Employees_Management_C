@@ -1,0 +1,205 @@
+[1964153616:-2:1671185136] : ----------------------------
+APP STARTED
+[0:379987744:1964163478] : Application Exit
+[1964153616:-2:-1682279709] : ----------------------------
+APP STARTED
+[0:-293595341:1964163478] : Application Exit
+[√ÖˇuˆÎ›ê˛ˇˇˇ:-2:-745830442] : ----------------------------
+APP STARTED
+[:0:0] : Application Exit
+[√ÖˇuˆÎ›ê˛ˇˇˇ:-2:-1430667678] : ----------------------------
+APP STARTED
+[(null):-545000558:1964202508] : 
+
+Employee added
+[(null):-545000558:1964202508] : 
+
+Employee added
+[√ÖˇuˆÎ›ê˛ˇˇˇ:-2:-1430667678] : ----------------------------
+APP STARTED
+[√ÖˇuˆÎ›ê˛ˇˇˇ:-2:-1430667678] : ----------------------------
+APP STARTED
+[(null):-545026894:1964202508] : 
+
+Employee added
+[√ÖˇuˆÎ›ê˛ˇˇˇ:-2:-1430667678] : ----------------------------
+APP STARTED
+[√ÖˇuˆÎ›ê˛ˇˇˇ:-2:-1430667678] : ----------------------------
+APP STARTED
+[:0:0] : Application Exit
+----------------------------
+APP STARTED
+ERROR! Reading CDETAILS File
+Application Exit
+----------------------------
+APP STARTED
+ERROR! Reading CDETAILS File
+Application Exit
+----------------------------
+APP STARTED
+ERROR! Reading CDETAILS File
+Application Exit
+----------------------------
+APP STARTED
+ERROR! Reading CDETAILS File
+Application Exit
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+
+
+Employee added
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+
+
+Employee added
+
+
+Employee added
+----------------------------
+APP STARTED
+Application Exit
+----------------------------
+APP STARTED
+Application Exit
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+ERROR! Reading CDETAILS File
+Application Exit
+----------------------------
+APP STARTED
+ERROR! Reading CDETAILS File
+Application Exit
+----------------------------
+APP STARTED
+ERROR! Reading CDETAILS File
+Application Exit
+----------------------------
+APP STARTED
+Application Exit
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+Application Exit
+----------------------------
+APP STARTED
+
+
+Employee added
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+Application Exit
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+Application Exit
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+Application Exit
+----------------------------
+APP STARTED
+Application Exit
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+Application Exit
+----------------------------
+APP STARTED
+----------------------------
+APP STARTED
+Application Exit
+----------------------------
+APP STARTED
+----------------------------
+APPLICATION STARTED
+Application Exit
+----------------------------
+APPLICATION STARTED
+Application Exit
+----------------------------
+APPLICATION STARTED
+----------------------------
+APPLICATION STARTED
+----------------------------
+APPLICATION STARTED
